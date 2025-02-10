@@ -15,9 +15,11 @@
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: black;
-    color: white;
+    background-color: #A9A9A9;
+    color: black;
     font-family: PexicoMicro-Regular, sans-serif;
+    cursor: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4='),
+    auto;
 }
 
 nav {
@@ -26,6 +28,7 @@ nav {
     align-items: center;
     padding: 1rem 2rem;
 }
+
 
 .btn {
     line-height: 1.8rem;
