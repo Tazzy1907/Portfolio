@@ -4,14 +4,3 @@ html {
   scroll-behavior: smooth;
 }
 
-@font-face {
-  font-family: "PexicoMicro-Regular";
-  src: url("https://db.onlinewebfonts.com/t/852be80a3188170a0c4ebb2534efb54d.woff2") format("woff2"),
-       url("https://db.onlinewebfonts.com/t/852be80a3188170a0c4ebb2534efb54d.woff") format("woff"),
-       url("https://db.onlinewebfonts.com/t/852be80a3188170a0c4ebb2534efb54d.ttf") format("truetype");
-}
-
-.font-pexico {
-  font-family: "PexicoMicro-Regular", sans-serif;
-}
-
