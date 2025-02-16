@@ -9,8 +9,7 @@ const App = () => {
     <>
       <title>Taz Siriwardena</title>
       <AnimatedBackground animationName="auroraBorealis" />
-      <NavBar />
-
+        <NavBar />
 
       <div id="about" class="h-screen flex flex-col w-full items-center pt-20">
         <h3 class="text-3xl font-bold text-white">About Me</h3>
