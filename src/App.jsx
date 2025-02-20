@@ -28,7 +28,7 @@ const App = () => {
       </div>
 
       <div id="links" className="h-screen flex flex-col w-full items-center pt-20">
-        <h3 className="text-3xl font-bold text-white">Links</h3>
+        <h3 class="text-3xl font-bold text-white">Links</h3>
         <button className="btn btn-primary text-white">Test DaisyUI Button</button>
 
       </div>
